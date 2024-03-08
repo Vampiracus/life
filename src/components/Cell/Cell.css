@@ -1,0 +1,14 @@
+.matrix__cell {
+    width: 1rem;
+    height: 1rem;
+
+    background-color: white;
+}
+
+.matrix__cell_alive {
+    background-color: black;
+}
+
+.matrix__cell:hover {
+    background-color: grey;
+}

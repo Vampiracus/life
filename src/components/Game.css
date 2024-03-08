@@ -1,0 +1,9 @@
+.matrix {
+    padding: 15px;
+    background-color: #444;
+    border-radius: 15px;
+}
+
+.matrix__row {
+    display: flex;
+}
